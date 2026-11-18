@@ -7,7 +7,7 @@ CS student at Ionian University in Greece. I build Python tools for AI agents an
 - [trading-bot](https://github.com/Matheos13/trading-bot): modular crypto trading bot with backtesting, parameter sweeps and paper trading
 - [phishing-url-detector](https://github.com/Matheos13/phishing-url-detector): random forest that flags phishing URLs from the URL text alone
 
-**Research:** LLMs and RAG systems at HILab, Ionian University. 1 paper progress.
+**Research:** LLMs and RAG systems at HILab, Ionian University. 1 paper in progress.
 
 **Stack:** Python · JavaScript · C++ · Flask · scikit-learn · pandas · Docker · Git
 
