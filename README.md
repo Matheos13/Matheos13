@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Mathaios
 
-<!--
-**Matheos13/Matheos13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Ionian University in Greece. I build Python tools for AI agents and I'm working toward offensive security.
 
-Here are some ideas to get you started:
+**Projects**
+- [importlens-mcp](https://github.com/Matheos13/importlens-mcp): MCP server that hands coding agents only the files that matter in a Python repo. On [PyPI](https://pypi.org/project/importlens-mcp/)
+- [trading-bot](https://github.com/Matheos13/trading-bot): modular crypto trading bot with backtesting, parameter sweeps and paper trading
+- [phishing-url-detector](https://github.com/Matheos13/phishing-url-detector): random forest that flags phishing URLs from the URL text alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research:** LLMs and RAG systems at HILab, Ionian University. 1 paper published, 2 in progress.
+
+**Stack:** Python · JavaScript · C++ · Flask · scikit-learn · pandas · Docker · Git
+
+[Portfolio](https://mathaiosmathaiou.netlify.app) · mathaiou.agency@gmail.com
